@@ -4,9 +4,9 @@ body {
 
 .header-image {
     display: block;
-    padding-top:-50px;
+    padding-top:-100px;
     width: 80%;
-    height: 400px;
+    height: 600px;
     text-align: center;
     background: url('https://lh3.googleusercontent.com/-6yzXBdkYXvI/VZ6dmgZut2I/AAAAAAAACx0/mEr9ceZD8MA/w909-h715-no/maid-cleaning1.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
