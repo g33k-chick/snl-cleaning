@@ -4,9 +4,9 @@ body {
 
 .header-image {
     display: block;
-    margin-top:-100px;
+    padding-top:-150px;
     width: 80%;
-    height: 600px;
+    height: 700px;
     text-align: center;
     background: url('https://lh3.googleusercontent.com/-6yzXBdkYXvI/VZ6dmgZut2I/AAAAAAAACx0/mEr9ceZD8MA/w909-h715-no/maid-cleaning1.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
@@ -16,11 +16,11 @@ body {
 }
 
 .headline {
-    padding: 120px 0;
+    padding: 100px 0;
 }
 
 .headline h1 {
-    font-size: 130px;
+    font-size: 100px;
     font-family: 'Cherry Cream Soda', cursive;
     background: #fff;
     background: rgba(255,255,255,0.9);
